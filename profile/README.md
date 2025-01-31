@@ -13,5 +13,5 @@ GitHub repositories contain samples and additional code.
 
 Free for private, commercial, and educational use.
 - [PyPi.org](https://pypi.org/project/tatukgis-pdk/) <br> to grab a version
-- [GitGub:DK.Python](https://github.com/TatukGIScom/DK.Python) <br> start pages, discussions, etc.
+- [GitHub:DK.Python](https://github.com/TatukGIScom/DK.Python) <br> start pages, discussions, etc.
 - [DK.Python-Samples](https://github.com/TatukGIScom/DK.Python-Samples)<br>Samples code
