@@ -23,6 +23,8 @@ Commercial SDK. Trial versions are available.
 - [tatukgis.com](https://tatukgis.com/) <br> to grab a version
 - [DK.Delphi-Samples](https://github.com/TatukGIScom/DK.Delphi-Samples)<br>Samples code
 
+Samples below will be available soon.
+
 ### Developer Kernel for .NET
 
 Commercial SDK. Trial versions are available.
