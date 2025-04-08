@@ -33,5 +33,5 @@ Commercial SDK. Trial versions are available.
 
 Commercial SDK. Trial and Educational versions are available.
 - [tatukgis.com](https://tatukgis.com/) <br> to grab a version
-- DK.Delphi-Samples<br>Samples code
+- [DK.Delphi-Samples](https://github.com/TatukGIScom/DK.Java-Samples)<br>Samples code
 
