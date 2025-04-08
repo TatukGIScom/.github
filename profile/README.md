@@ -12,26 +12,30 @@ GitHub repositories contain samples and additional code.
 ### Developer Kernel For Python (Free)
 
 Free for private, commercial, and educational use.
-- [PyPi.org](https://pypi.org/project/tatukgis-pdk/) <br> to grab a version
+- [PyPi.org](https://pypi.org/project/tatukgis-pdk/) <br> to grab a version.
 - [GitHub:DK.Python](https://github.com/TatukGIScom/DK.Python) <br> start pages, discussions, etc.
 - [DK.Python-Samples](https://github.com/TatukGIScom/DK.Python-Samples)<br>Samples code
 
-
 ### Developer Kernel for Delphi 
 
-Commercial SDK. Trial versions are available.
-- [tatukgis.com](https://tatukgis.com/) <br> to grab a version
+Commercial SDK. A Trial version is available.
+- [tatukgis.com](https://tatukgis.com/) <br> to grab a version.
 - [DK.Delphi-Samples](https://github.com/TatukGIScom/DK.Delphi-Samples)<br>Samples code
 
 ### Developer Kernel for .NET
 
-Commercial SDK. Trial versions are available.
+Commercial SDK. A Trial version is available.
 - [tatukgis.com](https://tatukgis.com/) <br> to grab a version
-- DK.NET-Samples<br>Samples code
+- DK.NET-Samples<br>Samples code (soon)
 
 ### Developer Kernel for Java
 
 Commercial SDK. Trial and Educational versions are available.
-- [tatukgis.com](https://tatukgis.com/) <br> to grab a version
+- [tatukgis.com](https://tatukgis.com/) <br> to grab a version.
 - [DK.Java-Samples](https://github.com/TatukGIScom/DK.Java-Samples)<br>Samples code
 
+### Developer Kernel for ActiveX
+
+Commercial SDK. A Trial version is available.
+- [tatukgis.com](https://tatukgis.com/) <br> to grab a version.
+- [DK.ActiveX-Samples](https://github.com/TatukGIScom/DK.ActiveX-Samples)<br>Samples code
