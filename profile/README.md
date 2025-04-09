@@ -26,7 +26,7 @@ Commercial SDK. A Trial version is available.
 
 Commercial SDK. A Trial version is available.
 - [tatukgis.com](https://tatukgis.com/) <br> to grab a version
-- DK.NET-Samples<br>Samples code (soon)
+- [DK.NET-Samples](https://github.com/TatukGIScom/DK.NET-Samples)<br>Samples code
 
 ### Developer Kernel for Java
 
