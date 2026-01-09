@@ -19,23 +19,31 @@ Free for private, commercial, and educational use.
 ### Developer Kernel for Delphi 
 
 Commercial SDK. A Trial version is available.
-- [tatukgis.com](https://tatukgis.com/) <br> to grab a version.
+- [TatuKGIS.com](https://www.tatukgis.com/Downloads/DKforDelphi) <br>to grab a version
 - [DK.Delphi-Samples](https://github.com/TatukGIScom/DK.Delphi-Samples)<br>Samples code
 
 ### Developer Kernel for .NET
 
 Commercial SDK. A Trial version is available.
-- [tatukgis.com](https://tatukgis.com/) <br> to grab a version
+- [TatuKGIS.com](https://www.tatukgis.com/Downloads/DKforNET) <br>to grab a setup 
+- [NuGet.org](https://www.nuget.org/profiles/TatukGIS) <br>to grab a NuGet package 
 - [DK.NET-Samples](https://github.com/TatukGIScom/DK.NET-Samples)<br>Samples code
+
+### Developer Kernel for ASP.NET
+
+Commercial SDK. A Trial version is available.
+- [TatuKGIS.com](https://www.tatukgis.com/Downloads/DKforASPNET) <br>to grab a setup 
+- [NuGet.org](https://www.nuget.org/profiles/TatukGIS) <br>to grab a NuGet package 
+- [DK.NET-Samples](https://github.com/TatukGIScom/DK.ASPNET-Samples)<br>Samples code
 
 ### Developer Kernel for Java
 
 Commercial SDK. Trial and Educational versions are available.
-- [tatukgis.com](https://tatukgis.com/) <br> to grab a version.
+- [TatuKGIS.com](https://www.tatukgis.com/Downloads/DKforJava) <br>to grab a version
 - [DK.Java-Samples](https://github.com/TatukGIScom/DK.Java-Samples)<br>Samples code
 
 ### Developer Kernel for ActiveX
 
 Commercial SDK. A Trial version is available.
-- [tatukgis.com](https://tatukgis.com/) <br> to grab a version.
+- [TatuKGIS.com](https://www.tatukgis.com/Downloads/DKforActiveX) <br>to grab a version
 - [DK.ActiveX-Samples](https://github.com/TatukGIScom/DK.ActiveX-Samples)<br>Samples code
