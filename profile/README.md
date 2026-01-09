@@ -34,7 +34,7 @@ Commercial SDK. A Trial version is available.
 Commercial SDK. A Trial version is available.
 - [TatuKGIS.com](https://www.tatukgis.com/Downloads/DKforASPNET) <br>to grab a setup 
 - [NuGet.org](https://www.nuget.org/profiles/TatukGIS) <br>to grab a NuGet package 
-- [DK.NET-Samples](https://github.com/TatukGIScom/DK.ASPNET-Samples)<br>Samples code
+- DK.NET-Samples]<br>Samples code coming soon.
 
 ### Developer Kernel for Java
 
